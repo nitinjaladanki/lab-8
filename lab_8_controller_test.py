@@ -6,7 +6,7 @@ Created on Thu Mar  4 20:49:23 2021
 """
 from BWSI_AUV import AUV
 from BWSI_BuoyField import BuoyField
-from AUV_Controller import AUV_Controller
+from AUV_Controller import AUVController
 
 import numpy as np
 import matplotlib.pyplot as plt
